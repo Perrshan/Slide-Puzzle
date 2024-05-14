@@ -20,6 +20,12 @@ Two integer arrays hold the random configuration of the 12 numbers, 0(blank spac
 
 Once the puzzle is solved, the screen displays the amount of time it took to solve the puzzle by displaying the value of the timer that is running throughout the solving process with a message saying ”GREAT JOB!! :)”. This is printed from a separate table that holds characters that take up 1 bank and are 7 pixels wide. 
 
+## Demonstration
+
+Here is a quick video showcasing how the project works!
+
+[Slide Puzzle Demonstration](https://youtu.be/9lBV3hiRxFU)
+
 ##  Parts List
 * Nucleo-L476RG board and USB cable
 * PCD8544 GLCD screen
